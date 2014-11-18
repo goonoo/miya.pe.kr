@@ -134,17 +134,56 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
 
 ## Projects
 
-* 레몬펜 at NCsoft
-  거대한 자바스크립트 덩어리와 처음 조우. 테스트 케이스도 모르던 시절 그저
-  꼼꼼함으로 버그에 맞서며 자바스크립트 덩어리를 불려감.
+* 레몬펜 at NCsoft - 2008
+  웹 페이지에 자바스크립트를 한줄 삽입하면 형광펜+포스트잇 기능을 제공하는
+  어플리케이션.
+  개인적으로는 거대한 자바스크립트 덩어리와 처음 조우. 테스트 케이스도 모르던 
+  시절 그저 꼼꼼함으로 버그에 맞서며 자바스크립트 덩어리를 불려감.
   다른 사이트에 기생해야 할 자바스크립트와 HTML, CSS는 어떻게 만들어야 하는가를
   경험하게 되었고, 자바스크립트 변수로 불어나는 HTML 템플릿의 관리 안됨에 힘들어
   했었음.
-* 아바타북 at NCsoft
-  A부터 Z까지 제대로 된 상용 서비스 UI 개발은 어떻게 보면 처음이었음.
-  JavaScript 변수 scope, HTML class 속성 정의 등 Front-end 개발자끼리 협업 시
-  요령을 익히고, context menu, dialog 등 그 당시 꽤나 Rich 하다고 여겨졌던 UI
+* 아바타북 at NCsoft - 2009
+  [아이온](http://aion.plaync.com)이라는 MMORPG 사용자를 위한 SNS.
+  게임로그를 선택해서 포스팅에 삽입할 수 있는 참신한 기능을 선보였었다.
+  개인적으로는 A부터 Z까지 제대로 된 상용 서비스 UI 개발은 어떻게 보면
+  처음. JavaScript 변수 scope, HTML class 속성 정의 등 Front-end 개발자끼리 협업
+  시 요령을 익히고, context menu, dialog 등 그 당시 꽤나 Rich 하다고 여겨졌던 UI
   잘 개발했었던 것 같음.
-* [N-MET](http://nuli.navercorp.com/sharing/fe/nmet) at NHN
-  CSS나 HTML formatter는 NHN의 HTML, CSS 작성 규칙에 맞게 코드를 정렬해주는 도구로서
+* [N-MET](http://nuli.navercorp.com/sharing/fe/nmet) at NHN - 2010~2011
+  CSS/HTML Formatter, CSS Sprites Generator 등을 포함하고 있다.
+  CSS나 HTML formatter는 NHN의 HTML, CSS 작성 규칙에 맞게 코드를 정렬해주는 도구.
+  [CSS Sprites Generator](http://html.nhncorp.com/N-MET/guide_public/#csg)는
+  CSS Sprite 이미지를 쉽게 만들 수 있게 도와주는 도구.
+* [N-WAX](http://nuli.navercorp.com/sharing/fe/nwax) at NHN - 2011
+  사내 접근성 지침에 맞게 접근성 평가를 도와주는 브라우저 확장.
+  NHN 퇴사 후 OpenWAX라는 이름으로 개발을 이어가고 있다.
+* [OpenWAX](http://openwax.net) - 2012~
+  한국형 웹 콘텐츠 접근성 지침(KWCAG)에 맞게 접근성 평가를 도와주는 브라우저
+  확장/북마클릿.
+* [댓글 플러그인](http://readme.skplanet.com/?p=3161) - 2012~2013
+  웹 페이지에 자바스크립트를 한줄 삽입하면 실시간 댓글 기능을 제공하는
+  어플리케이션. [DISQUS](https://disqus.com/)라는 패권자가 있었고, 사이드바
+  인디케이터라는 실시간성을 극대화한 댓글 기능에 초점을 맞추어 진행되었음.
+  [2012년 말에는 사내 개발자 컨퍼런스에서도 소개한 바 있음](http://www.youtube.com/watch?v=0OkuUg7lbiM)
+* [노량진 수산시장 시세](http://nrj.miya.pe.kr) - 2013
+  킹크랩, 대게 시세를 보기 편하게 만들어 가격 떨어지면 노량진 고고싱 하려고 만든
+  개인 서비스.
+* [RecoPick](http://recopick.com) - 2013~
+  웹 페이지에 자바스크립트를 한줄 삽입하면 아마존과 같은 추천 서비스를 제공하는
+  어플리케이션. (자바스크립트 한줄 시리즈가 참 많다. ^^;;)
+  함께 본 상품, 실시간 개인화, 통계형 추천 등 다양한 알고리즘의 추천 결과를
+  위젯 형태로 제공하며, 대시보드를 통해 위젯 디자인 설정, 각종 추천 성과 등을
+  제공한다.
+
+------
+
+## Activities
+
+* [WAI-ARIA in Real World](http://wordpress.miya.pe.kr/2010/07/17/kwag-12%EB%B2%88%EC%A7%B8-%EB%AA%A8%EC%9E%84-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-wai-aria-in-real-world/) - at KWAG 2010-07-17
+* [HTML5 관점에서 본 2011년 웹개발 동향 및 베스트 사례](http://www.bizdeli.com/online/detail.asp?pfid=S3680) - at BizDeli 2011-11-18
+* [접근성의 기본은 의미있는 마크업으로부터! 그럼 Ajax RIA는 어떻게 기본을 지킬까요?](http://nuli.navercorp.com/sharing/blog/post/990898) - at NHN Green Factory - 2012-02-25
+* [실시간성을 극대화한 댓글 플러그인 서비스 개발사례](http://readme.skplanet.com/?p=3585) - at TechPlanet 2012 2012-11-27
+* [다와 Vol.3 - 대체 텍스트와 웹 접근성 패널 참여](http://kwag.net/tawa/tawa-vol-3/) - at KWAG  2013-06-22
+* [웹 접근성 평가 전문교육 강사](http://www.wah.or.kr/Board/brd_list.asp?brd_sn=2&search=%EC%9B%B9+%EC%A0%91%EA%B7%BC%EC%84%B1+%ED%8F%89%EA%B0%80+%EC%A0%84%EB%AC%B8%EA%B5%90%EC%9C%A1) - at 한국정보화진흥원 2013
+* [웹 접근성 평가도구 OpenWAX](http://www.wah.or.kr/Board/brd_view.asp?brd_sn=2&brd_idx=940) - at 한국정보화진흥원 2014-05-12
 
