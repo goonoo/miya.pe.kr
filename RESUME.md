@@ -20,7 +20,7 @@ HTML을 떠올린다. 이 증상은 10년 이상 지속중이다.
 ### CSS
 
 `float`을 잘 이해하지만 잘 안쓴다. `top`, `bottom`, `left`, `right`를 함께 
-지정하는 absolute positioning 기반 [less](http://lesscss.org/)질을 좋아라함.
+지정하는 absolute positioning 기반 [stylus](http://learnboost.github.io/stylus/)질을 좋아라함.
 
 [CSS Architecture](http://mctenshi.tumblr.com/post/50642874121/css-architecture)를
 좋아하고 3개 이상의 선택자 조합은 안씀. `.button--primary` 여기서 `--` 이런 패턴은
