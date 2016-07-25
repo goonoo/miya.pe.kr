@@ -51,18 +51,27 @@ Client Side JavaScript가 하대 받던 시절(2000년대 초?)에도 참 좋아
 최근 3년(?)간 매일을 함께 하고 있음.
 
 `grunt`, `moment`, `underscore`, `coffeescript`, `express`, `mocha` 등의 패키지를
-좋아하고, 특히 `grunt`는 정말 사랑함.
+좋아하고, ~~특히 `grunt`는 정말 사랑함.~~ `grunt`는 `gulp`에 밀려 역사의 뒤안길로
+ㅋㅋ
 
 난 그다지 불편하지 않지만 협업을 하자면 콜백 지옥이라는 최고의 단점을 가진
 언어라고 생각. 하지만 강력한 `npm` 기반 패키징 환경, 그리고 그냥
-JavaScript니까 좋아함.
+JavaScript니까 좋아함. Promise, await는 콜백 지옥의 훌륭한 대안. Promise를 아주
+좋아하고 적용하기 쉽다고 생각.
 
 ### Angular.js
 
 Directive, Filter, Route, Service 등을 적당히 구사할 줄 알고 의존성 주입 개념을
 그럭저럭 이해하고 있는 정도의 초보 사용자.
 
-이제 간신히 맨땅에 개발하는 것보다 개발 속도가 빨라짐.
+~~이제 간신히 맨땅에 개발하는 것보다 개발 속도가 빨라짐.~~ 나에게도 React에 밀려
+역사의 뒤안길로...
+
+### React
+
+Angular.js를 밀어내고 UI의 개발의 메인으로 등극. Redux, Flux 경험 있음.
+React로 만드는 Component는 쉽게 의존성을 없앨 수 있고 읽기 쉽게 만들 수 있는
+형태가 되는 것 같음.
 
 ------
 
@@ -111,7 +120,7 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
 
 **Dable** *CPO* __2015~__
 
-스타트업 시작! http://dable.io
+RecoPick을 함께 만들었던 팀원들과 의기투합하여 스타트업 시작! http://dable.io
 
 ------
 
@@ -120,8 +129,9 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
 **일본어**
 
 고2 시절, 제2외국어 독일어를 등지고 1일 5시간 애니메이션 시청 모드 돌입.
+입만 열면 일본에서 살다 왔냐는 소리를 듣는 수준.
 
-현재 입만 열면 일본에서 살다 왔냐는 소리를 듣는 수준.
+현재는 덕분에 일본 (먹방) 여행 매니아.
 
 **영어**
 
@@ -133,6 +143,10 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
 
 순종적인(척 하는) 남편. (사실과는 다를 수 있으나) 최고의 남편이라고 주변에
 소문나 있긴 하다.
+
+**웨이트 트레이닝**
+
+2014년부터 생활이 되었다. 웨이트 트레이닝 포함 운동에 관한 화제를 즐김.
 
 ------
 
@@ -174,12 +188,12 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
   개인 서비스.
 * [RecoPick](http://recopick.com) - 2013~2015
   웹 페이지에 자바스크립트를 한줄 삽입하면 아마존과 같은 추천 서비스를 제공하는
-  어플리케이션. (자바스크립트 한줄 시리즈가 참 많다. ^^;;)
+  어플리케이션. (자바스크립트 한줄 시리즈가 참 많다...)
   함께 본 상품, 실시간 개인화, 통계형 추천 등 다양한 알고리즘의 추천 결과를
   위젯 형태로 제공하며, 대시보드를 통해 위젯 디자인 설정, 각종 추천 성과 등을
   제공한다.
 * [Dable](http://dable.io) - 2015~
-  Omni-channel Personalization Platform이다. 자세한 설명은 생략한다.
+  ~~Omni-channel Personalization Platform~~ 모든 사용자에게 그들이 원하는 개인화된 컨텐츠를 제공하고자 하는 회사이다. 자세한 설명은 생략한다.
 
 ------
 
@@ -192,4 +206,5 @@ Native JavaScript를 통한 웹 어플리케이션(레몬펜) 개발, jQuery를 
 * [다와 Vol.3 - 대체 텍스트와 웹 접근성 패널 참여](http://kwag.net/tawa/tawa-vol-3/) - at KWAG  2013-06-22
 * [웹 접근성 평가 전문교육 강사](http://www.wah.or.kr/Board/brd_list.asp?brd_sn=2&search=%EC%9B%B9+%EC%A0%91%EA%B7%BC%EC%84%B1+%ED%8F%89%EA%B0%80+%EC%A0%84%EB%AC%B8%EA%B5%90%EC%9C%A1) - at 한국정보화진흥원 2013
 * [웹 접근성 평가도구 OpenWAX](http://www.wah.or.kr/Board/brd_view.asp?brd_sn=2&brd_idx=940) - at 한국정보화진흥원 2014-05-12
+* [시간당 수백만 요청을 처리하는 node.js 서버 운영기](http://www.slideshare.net/mctenshi/nodejs-playnode-2015) - at play.node 2015-11-12
 
